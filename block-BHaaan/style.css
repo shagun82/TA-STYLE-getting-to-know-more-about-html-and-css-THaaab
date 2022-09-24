@@ -1,0 +1,33 @@
+header {
+    text-align: center ;
+}
+nav {
+    padding: 14px;
+}
+.color {
+    background-color: rgb(172, 21, 170);
+}
+.line {
+    border-bottom: 2px solid rgb(179, 174, 174);
+    display: block;
+}
+/* Footer */
+.footer {
+    text-align: center;
+    background-color: blue;
+    padding: 20px;
+    margin-top: 10px;
+}
+a {
+    margin-left: 16px;
+    margin-right: 16px;
+    text-decoration: none;
+}
+.blog {
+    width: 600px;
+    margin: 0 auto;
+}
+.time {
+    color: blue;
+    margin: 16px 0;
+}
