@@ -1,0 +1,23 @@
+header {
+    text-align: center ;
+}
+nav {
+    padding: 14px;
+}
+article{
+    text-align: center;
+}
+.color {
+    background-color: rgb(172, 21, 170);
+}
+h4 {
+    color: blue;
+}
+.line {
+    border-bottom: 2px solid rgb(179, 174, 174);
+    display: block;
+}
+.last {
+    text-align: center;
+    background-color: blue;
+}
